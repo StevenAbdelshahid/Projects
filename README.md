@@ -30,7 +30,7 @@ Implemented a concurrent HTTP server using C and POSIX threads to handle multipl
 - Incorporated synchronization primitives like mutexes and condition variables to manage shared resources effectively.
 - Produced an audit log to track request processing order and maintained memory efficiency by avoiding leaks.
 - Designed the server to adhere to HTTP standards, supporting GET and PUT methods with dynamic resource handling.
-Tech Used: C, POSIX Threads, Synchronization Primitives, Sockets
+**Tech Used**: C, POSIX Threads, Synchronization Primitives, Sockets
 
 
 ## Skills
