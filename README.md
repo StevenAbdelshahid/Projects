@@ -23,7 +23,7 @@ Developed core functionality for adding, retrieving, and deleting passwords, wit
 Incorporated features like password generation, search functionality, and password strength indicators to enhance usability.  
 **Tech Used**: C, Encryption Libraries, File Handling
 
-5. Multi-Threaded HTTP Server
+### 5. Multi-Threaded HTTP Server
 Implemented a concurrent HTTP server using C and POSIX threads to handle multiple client requests efficiently.
 - Developed a thread-safe server capable of handling up to `n` simultaneous client requests using a thread pool.
 - Ensured atomic and coherent linearization of client requests via audit logs.
